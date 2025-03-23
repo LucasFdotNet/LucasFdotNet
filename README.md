@@ -1,4 +1,4 @@
-<p align="left">Trilingual (English + Portuguese + Italian) Backend developer with 3 years of demonstrated success in designing, implementing, and maintaining software solutions.<br><br>Hi, I'm Lucas, a software engineer with a knack for critical thinking and innovative problem-solving. I possess strong communication, organizational, and technical skills, with a proven track record of working effectively both independently and within team settings. I’ve successfully led and contributed to a variety of projects, using agile methodologies for project management and execution.</p>
+<p align="left">Trilingual (English + Portuguese + Italian) Backend developer with 2 years of demonstrated success in designing, implementing, and maintaining software solutions.<br><br>Hi, I'm Lucas, a software engineer with a knack for critical thinking and innovative problem-solving. I possess strong communication, organizational, and technical skills, with a proven track record of working effectively both independently and within team settings. I’ve successfully led and contributed to a variety of projects, using agile methodologies for project management and execution.</p>
 
 ###
 
