@@ -1,4 +1,8 @@
-<p align="left">Bilingual (English + Portuguese) Backend developer with 2 years of demonstrated success in designing, implementing, and maintaining software solutions.<br><br>Hi, I'm Lucas, a software engineer with a knack for critical thinking and innovative problem-solving. I possess strong communication, organizational, and technical skills, with a proven track record of working effectively both independently and within team settings. I’ve successfully led and contributed to a variety of projects, using agile methodologies for project management and execution.</p>
+<p align="left">I’m a Backend Software Engineer passionate about building scalable, high-performance applications.
+ For the past 3+ years, I've been working deeply within the C#/.NET ecosystem to design robust RESTful APIs and handle complex system integrations.
+
+​I care a lot about software architecture and long-term maintainability. In my day-to-day work, I focus on solving business problems by delivering clean, testable code, relying heavily on principles like Clean Architecture, SOLID, and REST.
+​Whether I'm optimizing database queries with Dapper and Entity Framework Core, or exploring better ways to leverage cloud infrastructure (AWS/Azure), my goal is always to build reliable software that delivers real value. I thrive in collaborative environments and enjoy taking ownership of the features I build.</p>
 
 ###
 
